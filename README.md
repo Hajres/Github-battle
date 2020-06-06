@@ -3,7 +3,7 @@ Is an app allows you to batlle your friends and other users on Github. Basesd on
 App here : https://gallant-beaver-ddb4d4.netlify.app/
 
 Some technologies used :  
-React, React-router, Webpack, Babel and more..
+React, React-router, Webpack, Babel.js, Npm and more..
 
 Some Code Techniques used :  
 Contexts, Code splitting, Rednder props, higher-order funtions, ES6 freatures and more..
