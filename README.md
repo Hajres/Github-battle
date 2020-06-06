@@ -5,5 +5,5 @@ App here: https://gallant-beaver-ddb4d4.netlify.app/
 Some technologies used :  
 React, React-router, Webpack, Babel and more..
 
-Some Code Techniques used : 
+Some Code Techniques used :  
 Contexts, Code splitting, Rednder props, higher-order funtions, ES6 freatures and more..
